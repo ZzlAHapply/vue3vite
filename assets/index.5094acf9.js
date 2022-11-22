@@ -1,0 +1,1 @@
+import{o,g as r}from"./vendor.40bf91cc.js";import{_ as a}from"./index.2da3c238.js";const s={class:"auditLog"};var t=a({},[["render",function(a,t){return o(),r("div",s,"auditLog")}]]);export{t as default};

@@ -1,0 +1,1 @@
+import{o as r,g as s}from"./vendor.40bf91cc.js";import{_ as a}from"./index.2da3c238.js";const e={class:"BasicClue"};var o=a({},[["render",function(a,o){return r(),s("div",e,"BasicClue")}]]);export{o as default};

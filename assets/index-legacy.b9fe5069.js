@@ -1,0 +1,1 @@
+System.register(["./vendor-legacy.693d84d8.js","./index-legacy.547e4b3c.js"],(function(e){"use strict";var n,t,u;return{setters:[function(e){n=e.g,t=e.o},function(e){u=e._}],execute:function(){var r={class:"SubordinateClueMenu2"};e("default",u({},[["render",function(e,u){return t(),n("div",r,"SubordinateClueMenu2")}]]))}}}));

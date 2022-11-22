@@ -1,0 +1,1 @@
+import{o as e,g as r}from"./vendor.40bf91cc.js";import{_ as a}from"./index.2da3c238.js";const c={class:"accreditClueMenu"};var n=a({},[["render",function(a,n){return e(),r("div",c,"accreditClueMenu")}]]);export{n as default};

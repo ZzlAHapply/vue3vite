@@ -1,0 +1,1 @@
+System.register(["./Login-legacy.fbb9046e.js","./vendor-legacy.693d84d8.js","./index-legacy.547e4b3c.js"],(function(e){"use strict";return{setters:[function(t){t.default,e("default",t.default)},function(){},function(){}],execute:function(){}}}));

@@ -3,7 +3,7 @@ import App from './App.vue'
 const app = createApp(App)
 import router from './router'
 import '@/styles/index.scss' // global css
-//import vuex
+//import vuex1
 import store from './store'
 app.use(store)
 
